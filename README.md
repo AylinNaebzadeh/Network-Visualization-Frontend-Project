@@ -1,7 +1,8 @@
 # Network Visualization Frontend Project
 
 ## Project Overview
-<video src="assets/graph_visualization.mp4" controls width="700"></video>
+
+![Network Visualization Demo](assets/graph_visualization.gif)
 
 This repository contains the **frontend part of the final project** developed for the **Complex Dynamic Networks** course.
 
